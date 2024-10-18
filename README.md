@@ -1,4 +1,4 @@
-# computer-vision-4
+# Thresholding and Segmentation
 ##
 local spectral thresholding
 ##
